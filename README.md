@@ -16,8 +16,8 @@ Example: run angel.py for angel.co website
 
 ### Installing
 
-[Python](https://www.python.org/downloads/): Get Python here
-[Django](https://www.djangoproject.com/)
+* [Python](https://www.python.org/downloads/): Get Python here
+* [Django](https://www.djangoproject.com/)
 ```
 Open terminal run 'pip install django' to install Django
 ```
